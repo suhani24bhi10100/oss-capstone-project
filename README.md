@@ -5,10 +5,10 @@ This is a Capstone Project for the **Open Source Software (OSS)** subject.
 The project explores **Git**, a distributed version control system, from its origin
 and philosophy to its practical implementation on Linux.
 
-**Student Name:** [Your Name]  
-**Roll No:** [Your Roll No]  
+**Student Name:** SUHANI KUMARI  
+**Roll No:** 24BHI10100
 **Subject:** Open Source Software  
-**Academic Year:** 2024–2025  
+**Academic Year:** 2025–2026 
 
 ---
 
