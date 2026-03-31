@@ -1,0 +1,21 @@
+====================================================
+          PROJECT MANIFEST FILE
+====================================================
+
+Project Name  : OSS Capstone Project
+Author        : suhani Kumari
+Version       : 1.0
+Date Created  : 2026-03-31
+License       : GPL v2
+
+Description:
+  A capstone projec
+
+Git Commands Used:
+  git init     - Initialize repository
+  git add .    - Stage all files
+  git commit   - Save changes
+  git push     - Upload to remote
+
+Generated on  : Tue Mar 31 05:27:17 UTC 2026
+====================================================
